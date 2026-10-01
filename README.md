@@ -6,24 +6,23 @@
 ---
 
 ## Team Members & Collaborators
+
 | Sl. No. | Student Name | SRN |
-| 1 | **Dabbugunta Venya Anand** | PES1UG24AM074 |
-| 2 | *Harish Ramesh Kumar* | *PES1UG24AM111* |
-| 3 | *Bhogala Srika* | *PES1UG24AM067* |
-| 4 | *Karthik S Prabhu* | *PES1UG25AM805* |
+| :---: | :--- | :--- |
+| 1 | *Dabbugunta Venya Anand* | PES1UG24AM074 |
+| 2 | *Harish Ramesh Kumar* | PES1UG24AM111 |
+| 3 | *Bhogala Srika* | PES1UG24AM067 |
+| 4 | *Karthik S Prabhu* | PES1UG25AM805 |
 
 ---
 
 ## Repository Structure
+
 This repository serves as the shared workspace for the team's lab submissions across the semester as well as the final project development:
 
 ```text
 Bloodbank_inventory_donor_matching/
 ├── Lab 1/
-│   ├── DabbuguntaVenyaAnand_PES1UG24AM074_LAB1.pdf
-│   ├── [Member2]_LAB1.pdf
-│   ├── [Member3]_LAB1.pdf
-│   └── [Member4]_LAB1.pdf
 ├── Lab 2/                          # (Upcoming Lab Submissions)
 ├── docs/                           # Architecture, SRS, and Design Documents
 ├── src/                            # Final Semester Project Development Source Code
@@ -57,4 +56,3 @@ Perishable blood products (whole blood, plasma, platelets) have strict expiratio
 
 ### Lab 1: Requirements Engineering & UML Use-Case Modelling
 - **Submission Directory:** [`Lab 1/`](./Lab%201/)
-
