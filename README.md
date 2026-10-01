@@ -1,18 +1,17 @@
 # Blood Bank Inventory & Emergency Donor Matcher
 
-**Department of Computer Science and Engineering — PES University**  
 **Course:** Software Engineering  
 **Problem Statement #12:** Blood Bank Inventory & Emergency Donor Matcher (Healthcare & Telemedicine)  
 
 ---
 
 ## Team Members & Collaborators
-| Sl. No. | Student Name | SRN | Role / Responsibility |
+| Sl. No. | Student Name | SRN |
 | :---: | :--- | :--- | :--- |
-| 1 | **Dabbugunta Venya Anand** | PES1UG24AM074 | Core Requirements & UC-07 Specification |
-| 2 | *[Team Member 2]* | *[SRN]* | Collaborator |
-| 3 | *[Team Member 3]* | *[SRN]* | Collaborator |
-| 4 | *[Team Member 4]* | *[SRN]* | Collaborator |
+| 1 | **Dabbugunta Venya Anand** | PES1UG24AM074 |
+| 2 | *[Team Member 2]* | *[SRN]* |
+| 3 | *[Team Member 3]* | *[SRN]* |
+| 4 | *[Team Member 4]* | *[SRN]* |
 
 ---
 
@@ -59,5 +58,4 @@ Perishable blood products (whole blood, plasma, platelets) have strict expiratio
 
 ### Lab 1: Requirements Engineering & UML Use-Case Modelling
 - **Submission Directory:** [`Lab 1/`](./Lab%201/)
-  - **Dabbugunta Venya Anand:** [`DabbuguntaVenyaAnand_PES1UG24AM074_LAB1.pdf`](./Lab%201/DabbuguntaVenyaAnand_PES1UG24AM074_LAB1.pdf)
-  - *(Team members can add their respective Lab 1 PDFs into this folder)*
+
