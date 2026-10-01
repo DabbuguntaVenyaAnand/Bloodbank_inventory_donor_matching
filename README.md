@@ -7,11 +7,10 @@
 
 ## Team Members & Collaborators
 | Sl. No. | Student Name | SRN |
-| :---: | :--- | :--- | :--- |
 | 1 | **Dabbugunta Venya Anand** | PES1UG24AM074 |
-| 2 | *[Team Member 2]* | *[SRN]* |
-| 3 | *[Team Member 3]* | *[SRN]* |
-| 4 | *[Team Member 4]* | *[SRN]* |
+| 2 | *Harish Ramesh Kumar* | *PES1UG24AM111* |
+| 3 | *Bhogala Srika* | *PES1UG24AM067* |
+| 4 | *Karthik S Prabhu* | *PES1UG25AM805* |
 
 ---
 
