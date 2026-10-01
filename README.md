@@ -1,11 +1,36 @@
 # Blood Bank Inventory & Emergency Donor Matcher
 
 **Department of Computer Science and Engineering — PES University**  
-**Course:** Software Engineering Lab  
-**Lab 1:** Requirements Engineering & UML Use-Case Modelling  
+**Course:** Software Engineering  
 **Problem Statement #12:** Blood Bank Inventory & Emergency Donor Matcher (Healthcare & Telemedicine)  
-**Student Name:** Dabbugunta Venya Anand  
-**SRN:** PES1UG24AM074  
+
+---
+
+## Team Members & Collaborators
+| Sl. No. | Student Name | SRN | Role / Responsibility |
+| :---: | :--- | :--- | :--- |
+| 1 | **Dabbugunta Venya Anand** | PES1UG24AM074 | Core Requirements & UC-07 Specification |
+| 2 | *[Team Member 2]* | *[SRN]* | Collaborator |
+| 3 | *[Team Member 3]* | *[SRN]* | Collaborator |
+| 4 | *[Team Member 4]* | *[SRN]* | Collaborator |
+
+---
+
+## Repository Structure
+This repository serves as the shared workspace for the team's lab submissions across the semester as well as the final project development:
+
+```text
+Bloodbank_inventory_donor_matching/
+├── Lab 1/
+│   ├── DabbuguntaVenyaAnand_PES1UG24AM074_LAB1.pdf
+│   ├── [Member2]_LAB1.pdf
+│   ├── [Member3]_LAB1.pdf
+│   └── [Member4]_LAB1.pdf
+├── Lab 2/                          # (Upcoming Lab Submissions)
+├── docs/                           # Architecture, SRS, and Design Documents
+├── src/                            # Final Semester Project Development Source Code
+└── README.md                       # Project & Lab Documentation
+```
 
 ---
 
@@ -27,3 +52,12 @@ Perishable blood products (whole blood, plasma, platelets) have strict expiratio
 - **Supporting / External Actors:**
   - **SMS Gateway (External System):** Delivers emergency broadcasts and alerts to donors and managers.
   - **Partner Blood Bank Network (External System):** Receives surplus transfer notifications and coordinates inter-facility transfers.
+
+---
+
+## 2. Lab Submissions
+
+### Lab 1: Requirements Engineering & UML Use-Case Modelling
+- **Submission Directory:** [`Lab 1/`](./Lab%201/)
+  - **Dabbugunta Venya Anand:** [`DabbuguntaVenyaAnand_PES1UG24AM074_LAB1.pdf`](./Lab%201/DabbuguntaVenyaAnand_PES1UG24AM074_LAB1.pdf)
+  - *(Team members can add their respective Lab 1 PDFs into this folder)*
