@@ -23,7 +23,8 @@ This repository serves as the shared workspace for the team's lab submissions ac
 ```text
 Bloodbank_inventory_donor_matching/
 ├── Lab 1/
-├── Lab 2/                          # (Upcoming Lab Submissions)
+├── Lab 2/
+├── Lab 3/
 ├── docs/                           # Architecture, SRS, and Design Documents
 ├── src/                            # Final Semester Project Development Source Code
 └── README.md                       # Project & Lab Documentation
@@ -56,3 +57,9 @@ Perishable blood products (whole blood, plasma, platelets) have strict expiratio
 
 ### Lab 1: Requirements Engineering & UML Use-Case Modelling
 - **Submission Directory:** [`Lab 1/`](./Lab%201/)
+
+### Lab 2
+- **Submission Directory:** [`Lab 2/`](./Lab%202/)
+
+### Lab 3
+- **Submission Directory:** [`Lab 3/`](./Lab%203/)
