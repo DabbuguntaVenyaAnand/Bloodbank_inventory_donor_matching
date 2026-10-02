@@ -60,7 +60,6 @@ Perishable blood products (whole blood, plasma, platelets) have strict expiratio
 
 ### Lab 2: Agile Backlog Creation & Sprint Simulation in Jira
 - **Submission Directory:** [`Lab 2/`](./Lab%202/)
-  - **Dabbugunta Venya Anand:** [`DabbuguntaVenyaAnand_PES1UG24AM074_LAB2.pdf`](./Lab%202/DabbuguntaVenyaAnand_PES1UG24AM074_LAB2.pdf)
 
 ### Lab 3
 - **Submission Directory:** [`Lab 3/`](./Lab%203/)
